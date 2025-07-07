@@ -1,0 +1,26 @@
+# environment.yml
+# This file is for a Conda environment and is recommended for MyBinder.
+# It specifies channels and dependencies for a reproducible environment.
+
+name: mybinder-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyter
+  - reverse-geocode
+  - pycountry-convert
+  - geopandas
+  - folium
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - shap
+  - scipy
+  - earthengine-api
+  - graphviz
+  - python-graphviz
+  - pytz
+  - ipython

@@ -1,0 +1,20 @@
+# requirements.txt
+# WARNING: Installing geopandas via pip can be unreliable.
+# The conda-driven environment.yml method is strongly recommended for this project.
+# This file included for reference only
+
+reverse-geocode
+pycountry-convert
+geopandas
+folium
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+shap
+scipy
+earthengine-api
+graphviz
+pytz
+ipython
