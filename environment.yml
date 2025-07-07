@@ -9,7 +9,6 @@ dependencies:
   - python=3.9
   - jupyter
   - reverse-geocode
-  - pycountry-convert
   - geopandas
   - folium
   - pandas
