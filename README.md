@@ -56,8 +56,8 @@ A selection of background resources developed and provided to participants.
 Participant-submitted notebooks have minimally modified to reference filepaths relative to this repository's structure for easy exploration in the cloud.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IGES-Geospatial/Hack-the-GLOBE-2025/blob/main)\
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IGES-Geospatial/Hack-the-GLOBE-2025/main)
-*n.b. - the free MyBinder environment, as defined by environment.yml is RAM limited and may not permit easy exploration, but is included for complete reference.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IGES-Geospatial/Hack-the-GLOBE-2025/main)\
+*n.b. - the free MyBinder environment, as defined by environment.yml is RAM limited and may not permit easy exploration, but is included for complete reference.*
 
 ## Future Outputs
 - An aggregated analysis notebook synthesized from the combined efforts of all submissions.
