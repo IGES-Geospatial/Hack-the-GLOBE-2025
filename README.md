@@ -31,7 +31,7 @@ The project is structured around several key objectives to equip students with a
 - Generating Actionable Data Quality Flags: The key deliverable requires participants to create a repeatable process for assigning interpretable data quality flags to individual observations, thereby reflecting their reliability and highlighting potential issues.
 
 **<ins>Main Deliverables</ins>**\
-Well-documented and repeatable code products (in the form of Python Notebooks) that assign interpretable data characterization flags to individual observations, thereby reflecting data reliability and highlighting potential issues. The notebooks themselves will generally follow the following structure:\
+Well-documented and repeatable code products (in the form of Python Notebooks) that assign interpretable data characterization flags to individual observations, thereby reflecting data reliability and highlighting potential issues. The notebooks themselves will generally follow the following structure:
 - Loading the data
 - Data Profiling
 - Handling null values
