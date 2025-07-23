@@ -70,6 +70,12 @@ Participant-submitted notebooks have been minimally modified to reference filepa
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IGES-Geospatial/Hack-the-GLOBE-2025/main)\
 *n.b. - the free MyBinder environment, as defined by environment.yml is RAM limited and may not permit easy exploration, but is included for complete reference.*
 
+## Student Presentations
+As part of the SEES program, each student team delivered an ~5 minute video presentation summarizing their work and experience. The Hack the GLOBE student presentations are available on Youtube:
+- Vin Bhat, Saanvi Shah: [Identifying Outliers in the GLOBE Surface Temperature Protocol](https://www.youtube.com/watch?v=GUIFRQmP0J4)
+- Daksh Mamnani, Adhvaith Vinothkumar, Marlin Wong: [Dimensionality Reduction and Inference for Field-based Surface Temperature (Drift-ST)](https://www.youtube.com/watch?v=xS5sfZ1g9XI)
+- Neel Kansara, Darryl Tang, Jordan Tran: [MOSAIC: Optimizing Metadata and Detecting Anomalies in Geospatial Data Using Unsupervised Clustering](https://www.youtube.com/watch?v=0Yh4zGhHvys)
+
 ## Future Outputs
 - An aggregated analysis notebook synthesized from the combined efforts of all submissions.
 - DOI-referenceable archival snapshot of repository (via Zenodo) with authorship credit assigned to contributors via their ORCiD
